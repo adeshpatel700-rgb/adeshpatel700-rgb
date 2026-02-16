@@ -1,11 +1,11 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFA6&height=250&section=header&text=Adesh%20Patel&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=55&descSize=25" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFA6&height=250&section=header&text=Adesh%20Chaudhary&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=55&descSize=25" width="100%"/>
 </div>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=28&pause=1000&color=00BFA6&center=true&vCenter=true&width=600&lines=Building+Pixel-Perfect+Mobile+Apps;Crafting+Smooth+Animations;Exploring+Advanced+Physics+Simulations;Turning+Coffee+Into+Clean+Code)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=28&pause=1000&color=00BFA6&center=true&vCenter=true&width=600&lines=Building+Pro+Flutter+Apps;Crafting+Premium+Animations;Advanced+Physics+Simulations;Clean+Architecture+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,21 +13,17 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm95Mm5lODR4d2h2bHl6d295Zm95Zm95Zm95Zm95Zm95Zm95ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L3cn8zH233jG5J3qZ/giphy.gif" width="30">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm95Mm5lODR4d2h2bHl6d295Zm95Zm95Zm95Zm95Zm95Zm95ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L3cn8zH233jG5J3qZ/giphy.gif" width="0"> 
-  <!-- Spacer -->
 </div>
 
-## ⚡ The Developer Log
+## ⚡ Portfolio
 
-> *"Simplicity is the ultimate sophistication."*
-
-I'm **Adesh**, a developer who lives at the intersection of **Design** and **Engineering**. My mission is to build mobile applications that don't just work—they *feel* right. I specialize in **Flutter** for cross-platform excellence and **Firebase** for robust backends.
+I'm **Adesh Chaudhary**, a developer who lives at the intersection of **Design** and **Engineering**. My mission is to build mobile applications that don't just work—they *feel* right. I specialize in **Flutter** for cross-platform excellence and **Firebase** for robust backends.
 
 Currently, I'm engineering **[Workly](https://github.com/adeshpatel700-rgb/Workly)**, a team synchronization tool designed to streamline workplace efficiency with a premium user experience.
 
 ---
 
-### 🛠️ Arsenal
+### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -37,9 +33,9 @@ Currently, I'm engineering **[Workly](https://github.com/adeshpatel700-rgb/Workl
 
 </div>
 
----
+<br/>
 
-### 🏆 Highlights
+### 🏆 Featured Projects
 
 <div align="center">
 
@@ -52,22 +48,8 @@ Currently, I'm engineering **[Workly](https://github.com/adeshpatel700-rgb/Workl
 
 </div>
 
----
-
-### 📈 Activity
-
-<div align="center">
-  <a href="https://github.com/adeshpatel700-rgb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adeshpatel700-rgb&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&icon_color=00BFA6&title_color=00BFA6&count_private=true" alt="Adesh's stats" />
-  </a>
-  <br/>
-  <br/>
-  <a href="https://github.com/adeshpatel700-rgb">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adeshpatel700-rgb&theme=tokyonight&hide_border=true&background=1A1B27&stroke=00BFA6&ring=00BFA6&fire=00BFA6&currStreakLabel=00BFA6" alt="streak stats"/>
-  </a>
-</div>
-
----
+<br/>
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFA6&height=80&section=footer" width="100%"/>
