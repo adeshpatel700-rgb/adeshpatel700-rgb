@@ -83,6 +83,10 @@ PotatoPay is my active creator-support platform — a place where fans can send 
 <td>⚡ <b>Fast creator tools</b><br /><sub>Profile, banner, overlay, history, and earnings workflows</sub></td>
 <td>🏦 <b>Payout-ready foundation</b><br /><sub>Idempotent Razorpay payments and RazorpayX automation path</sub></td>
 </tr>
+<tr>
+<td>📡 <b>Real-time synchronization</b><br /><sub>Low-latency WebSockets & SSE stream feeds for live overlays</sub></td>
+<td>🔒 <b>Webhook idempotency</b><br /><sub>Deduplicated event handling with cryptographic signature verification</sub></td>
+</tr>
 </table>
 
 > **Status:** actively shipping. The product is evolving from a working creator dashboard into a complete, reliable monetization system.
