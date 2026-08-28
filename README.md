@@ -13,6 +13,7 @@
 <a href="https://togetha.me"><img src="https://img.shields.io/badge/Portfolio-togetha.me-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://pub.dev/packages/http_nexus"><img src="https://img.shields.io/badge/pub.dev-http__nexus-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="http_nexus on pub.dev" /></a>
 <a href="https://linkedin.com/in/adesh-chaudhary-933426305"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/adesh_dev"><img src="https://img.shields.io/badge/X-follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
 <a href="mailto:adeshpatel700@gmail.com"><img src="https://img.shields.io/badge/Email-say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br /><br />
