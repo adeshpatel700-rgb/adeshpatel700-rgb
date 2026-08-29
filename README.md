@@ -140,6 +140,7 @@ PotatoPay is my active creator-support platform — a place where fans can send 
 - **Trisaran Money:** worked as the sole mobile engineer on a fintech referral app with 300+ registered users.
 - **Performance:** improved frame rate by profiling rebuilds and reducing unnecessary work.
 - **Onboarding:** helped reduce drop-off by roughly 30% through flow and UX improvements.
+- **TaskFlow:** implemented zero-loss local state persistence with SQLite transactions and debounced indexing.
 - **7Seers:** helped improve crash-free sessions from 91% to 97% while resolving 20+ UI issues in a five-person team.
 
 </details>
