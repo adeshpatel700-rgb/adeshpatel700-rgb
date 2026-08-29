@@ -106,6 +106,7 @@ PotatoPay is my active creator-support platform — a place where fans can send 
 ![Architecture](https://img.shields.io/badge/Architecture-Clean%20%7C%20MVVM-00D4FF?style=flat-square)
 ![SQLite](https://img.shields.io/badge/Storage-SQLite%20%7C%20Hive-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/APIs-Dio%20%7C%20HTTP-00D4FF?style=flat-square)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Testing](https://img.shields.io/badge/Quality-flutter__test%20%7C%20CI-22C55E?style=flat-square)
 
 </div>
