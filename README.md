@@ -122,6 +122,7 @@ PotatoPay is my active creator-support platform — a place where fans can send 
 | --- | --- | --- |
 | [PotatoPay](https://github.com/adeshpatel700-rgb/potatopay-landing-creatordash) | Creator support, live overlays, QR blocks, leaderboards, media tiers, and a polished dashboard experience | Next.js · TypeScript |
 | [PotatoPay backend](https://github.com/adeshpatel700-rgb/potatopay-cbackend) | Payments, creator finance, analytics, moderation, webhooks, and payout automation foundations | Node.js · TypeScript · PostgreSQL |
+| [PotatoPay Admin](https://github.com/adeshpatel700-rgb/potatopay-admin) | Operations portal with dispute monitoring, creator approval queues, and settlement reconciliations | Next.js · TailwindCSS |
 | [http_nexus](https://pub.dev/packages/http_nexus) | Published Flutter HTTP client with retries, exponential backoff, interceptors, and offline queueing | Dart · pub.dev |
 | [TaskFlow](https://github.com/adeshpatel700-rgb/flodo-task) | Offline-first task orchestration with SQLite persistence, recurring tasks, and debounced autocomplete search | Flutter · SQLite · Provider |
 | [FaithConnect](https://github.com/adeshpatel700-rgb/Faithconnect) | Community experience with real-time feeds, notifications, and role-aware access | Flutter · Firebase |
