@@ -65,6 +65,9 @@ I build across the full product lifecycle — Flutter UI, Firebase, scalable RES
 <a href="https://github.com/adeshpatel700-rgb/potatopay-cbackend">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=adeshpatel700-rgb&repo=potatopay-cbackend&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=00D4FF&icon_color=6D5DFB" alt="PotatoPay backend repository" />
 </a>
+<a href="https://github.com/adeshpatel700-rgb/potatopay-admin">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adeshpatel700-rgb&repo=potatopay-admin&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=00D4FF&icon_color=6D5DFB" alt="PotatoPay Admin repository" />
+</a>
 
 </div>
 
