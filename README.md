@@ -179,3 +179,5 @@ I like products with personality, interfaces with motion, and engineering decisi
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:6D5DFB,100:090E1A&height=120&section=footer" alt="Profile footer" width="100%" />
 
 </div>
+
+<!-- profile-note-2026-08-31 -->
