@@ -98,6 +98,7 @@ PotatoPay is my active creator-support platform — a place where fans can send 
 ![Dart](https://img.shields.io/badge/Dart-2%2B-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-Auth%20%7C%20Firestore%20%7C%20FCM-FFCA28?style=flat-square&logo=firebase&logoColor=111827)
 ![Riverpod](https://img.shields.io/badge/Riverpod-state%20management-6D5DFB?style=flat-square)
+![Architecture](https://img.shields.io/badge/Architecture-Clean%20%7C%20MVVM-00D4FF?style=flat-square)
 ![REST APIs](https://img.shields.io/badge/APIs-Dio%20%7C%20HTTP-00D4FF?style=flat-square)
 ![Testing](https://img.shields.io/badge/Quality-flutter__test%20%7C%20CI-22C55E?style=flat-square)
 
