@@ -99,12 +99,13 @@ PotatoPay is my active creator-support platform — a place where fans can send 
 ![Firebase](https://img.shields.io/badge/Firebase-Auth%20%7C%20Firestore%20%7C%20FCM-FFCA28?style=flat-square&logo=firebase&logoColor=111827)
 ![Riverpod](https://img.shields.io/badge/Riverpod-state%20management-6D5DFB?style=flat-square)
 ![Architecture](https://img.shields.io/badge/Architecture-Clean%20%7C%20MVVM-00D4FF?style=flat-square)
+![SQLite](https://img.shields.io/badge/Storage-SQLite%20%7C%20Hive-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/APIs-Dio%20%7C%20HTTP-00D4FF?style=flat-square)
 ![Testing](https://img.shields.io/badge/Quality-flutter__test%20%7C%20CI-22C55E?style=flat-square)
 
 </div>
 
-**Comfortable with:** Flutter · Dart · Firebase · Riverpod · Provider · Bloc · go_router · Dio · REST APIs · Firestore · Storage · FCM · Google Play Console · GitHub Actions · responsive UI · profiling · production debugging
+**Comfortable with:** Flutter · Dart · Firebase · Riverpod · Provider · Bloc · go_router · Dio · sqflite · REST APIs · PostgreSQL · Firestore · Storage · FCM · Google Play Console · GitHub Actions · responsive UI · profiling · memory leak detection · production debugging
 
 ## ✨ Selected work
 
