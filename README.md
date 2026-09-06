@@ -31,23 +31,23 @@
 
 ## Hey, I’m Adesh 👋
 
-I’m a Flutter developer who enjoys taking an idea from a blank screen to a polished, useful product. I care about the details people feel: fast interactions, thoughtful empty states, resilient networking, clean architecture, and interfaces that make users want to come back.
+I’m a Flutter engineer & full-stack builder focused on crafting high-performance, resilient mobile and web products. I care deeply about the craft: sub-16ms frame budgets, intuitive offline-first architecture, clean domain boundaries, and responsive interfaces.
 
-I build across the full product loop — Flutter UI, Firebase, APIs, payments, analytics, release workflows, and the small moments that turn a functional app into a memorable one.
+I build across the full product lifecycle — Flutter UI, Firebase, scalable REST/WebSocket backends, payment systems, analytics, and automated CI/CD pipelines.
 
 </td>
 <td width="44%" valign="top">
 
-### My build loop
+### Core principles
 
 ```text
-  ✦ Discover the real problem
+  ✦ Zero-jank 60fps UX & fluid motion
           ↓
-  ✦ Design the smallest delightful flow
+  ✦ Resilient networking & offline-first
           ↓
-  ✦ Build with maintainable Flutter
+  ✦ Clean domain-driven architecture
           ↓
-  ✦ Measure, polish, ship, repeat
+  ✦ Continuous profiling, test & ship
 ```
 
 </td>
