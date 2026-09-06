@@ -161,6 +161,7 @@ I like products with personality, interfaces with motion, and engineering decisi
 ### Let’s build something people remember.
 
 <a href="mailto:adeshpatel700@gmail.com"><img src="https://img.shields.io/badge/Work%20with%20me-adeshpatel700%40gmail.com-6D5DFB?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Adesh" /></a>
+<a href="https://linkedin.com/in/adesh-chaudhary-933426305"><img src="https://img.shields.io/badge/LinkedIn-Connect-00D4FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" /></a>
 
 <br /><br />
 
